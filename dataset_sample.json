@@ -1,0 +1,3245 @@
+{
+    "metadata": {
+        "source": "Steam Web API",
+        "method": "Snowball Sampling",
+        "criteria": "min_10_games_with_playtime",
+        "total_collected": 10
+    },
+    "data": [
+        {
+            "steam_id": "76561198418191535",
+            "total_valid_games": 118,
+            "library": [
+                {
+                    "app_id": 10,
+                    "name": "Counter-Strike",
+                    "playtime": 1012
+                },
+                {
+                    "app_id": 70,
+                    "name": "Half-Life",
+                    "playtime": 95
+                },
+                {
+                    "app_id": 80,
+                    "name": "Counter-Strike: Condition Zero",
+                    "playtime": 309
+                },
+                {
+                    "app_id": 220,
+                    "name": "Half-Life 2",
+                    "playtime": 700
+                },
+                {
+                    "app_id": 240,
+                    "name": "Counter-Strike: Source",
+                    "playtime": 147
+                },
+                {
+                    "app_id": 320,
+                    "name": "Half-Life 2: Deathmatch",
+                    "playtime": 24
+                },
+                {
+                    "app_id": 400,
+                    "name": "Portal",
+                    "playtime": 379
+                },
+                {
+                    "app_id": 440,
+                    "name": "Team Fortress 2",
+                    "playtime": 29
+                },
+                {
+                    "app_id": 550,
+                    "name": "Left 4 Dead 2",
+                    "playtime": 2346
+                },
+                {
+                    "app_id": 620,
+                    "name": "Portal 2",
+                    "playtime": 8759
+                },
+                {
+                    "app_id": 730,
+                    "name": "Counter-Strike 2",
+                    "playtime": 332970
+                },
+                {
+                    "app_id": 4000,
+                    "name": "Garry's Mod",
+                    "playtime": 1862
+                },
+                {
+                    "app_id": 8190,
+                    "name": "Just Cause 2",
+                    "playtime": 4
+                },
+                {
+                    "app_id": 15100,
+                    "name": "Assassin's Creed",
+                    "playtime": 1134
+                },
+                {
+                    "app_id": 17390,
+                    "name": "Spore",
+                    "playtime": 157
+                },
+                {
+                    "app_id": 21130,
+                    "name": "LEGO\u00ae Harry Potter: Years 1-4",
+                    "playtime": 97
+                },
+                {
+                    "app_id": 24960,
+                    "name": "Battlefield: Bad Company\u2122 2",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 25890,
+                    "name": "Hearts of Iron III",
+                    "playtime": 211
+                },
+                {
+                    "app_id": 33230,
+                    "name": "Assassin's Creed II",
+                    "playtime": 1472
+                },
+                {
+                    "app_id": 39800,
+                    "name": "Nation Red",
+                    "playtime": 17
+                },
+                {
+                    "app_id": 40100,
+                    "name": "Supreme Commander 2",
+                    "playtime": 1110
+                },
+                {
+                    "app_id": 40960,
+                    "name": "Stronghold 2",
+                    "playtime": 270
+                },
+                {
+                    "app_id": 48190,
+                    "name": "Assassin's Creed Brotherhood",
+                    "playtime": 1919
+                },
+                {
+                    "app_id": 70600,
+                    "name": "Worms Ultimate Mayhem",
+                    "playtime": 28
+                },
+                {
+                    "app_id": 105600,
+                    "name": "Terraria",
+                    "playtime": 12010
+                },
+                {
+                    "app_id": 107410,
+                    "name": "Arma 3",
+                    "playtime": 527
+                },
+                {
+                    "app_id": 108600,
+                    "name": "Project Zomboid",
+                    "playtime": 33
+                },
+                {
+                    "app_id": 201870,
+                    "name": "Assassin's Creed Revelations",
+                    "playtime": 758
+                },
+                {
+                    "app_id": 206420,
+                    "name": "Saints Row IV",
+                    "playtime": 322
+                },
+                {
+                    "app_id": 218510,
+                    "name": "Planets Under Attack",
+                    "playtime": 67
+                },
+                {
+                    "app_id": 218620,
+                    "name": "PAYDAY 2",
+                    "playtime": 512
+                },
+                {
+                    "app_id": 239140,
+                    "name": "Dying Light",
+                    "playtime": 502
+                },
+                {
+                    "app_id": 242050,
+                    "name": "Assassin's Creed IV Black Flag",
+                    "playtime": 2028
+                },
+                {
+                    "app_id": 243470,
+                    "name": "Watch_Dogs",
+                    "playtime": 465
+                },
+                {
+                    "app_id": 260210,
+                    "name": "Assassin's Creed Liberation",
+                    "playtime": 589
+                },
+                {
+                    "app_id": 271590,
+                    "name": "Grand Theft Auto V Legacy",
+                    "playtime": 10310
+                },
+                {
+                    "app_id": 275850,
+                    "name": "No Man's Sky",
+                    "playtime": 545
+                },
+                {
+                    "app_id": 277590,
+                    "name": "Assassin's Creed Freedom Cry",
+                    "playtime": 208
+                },
+                {
+                    "app_id": 285900,
+                    "name": "Gang Beasts",
+                    "playtime": 239
+                },
+                {
+                    "app_id": 286810,
+                    "name": "Hard Truck: Apocalypse Rise Of Clans / Ex Machina: Meridian 113",
+                    "playtime": 2
+                },
+                {
+                    "app_id": 289070,
+                    "name": "Sid Meier's Civilization VI",
+                    "playtime": 2399
+                },
+                {
+                    "app_id": 289650,
+                    "name": "Assassin's Creed Unity",
+                    "playtime": 1853
+                },
+                {
+                    "app_id": 292030,
+                    "name": "The Witcher 3: Wild Hunt",
+                    "playtime": 585
+                },
+                {
+                    "app_id": 293180,
+                    "name": "Overcast - Walden and the Werewolf",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 298110,
+                    "name": "Far Cry 4",
+                    "playtime": 223
+                },
+                {
+                    "app_id": 311560,
+                    "name": "Assassin's Creed Rogue",
+                    "playtime": 649
+                },
+                {
+                    "app_id": 312530,
+                    "name": "Duck Game",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 322170,
+                    "name": "Geometry Dash",
+                    "playtime": 1150
+                },
+                {
+                    "app_id": 341800,
+                    "name": "Keep Talking and Nobody Explodes",
+                    "playtime": 200
+                },
+                {
+                    "app_id": 359550,
+                    "name": "Tom Clancy's Rainbow Six Siege",
+                    "playtime": 8311
+                },
+                {
+                    "app_id": 361420,
+                    "name": "ASTRONEER",
+                    "playtime": 1253
+                },
+                {
+                    "app_id": 368500,
+                    "name": "Assassin's Creed Syndicate",
+                    "playtime": 3851
+                },
+                {
+                    "app_id": 381210,
+                    "name": "Dead by Daylight",
+                    "playtime": 10948
+                },
+                {
+                    "app_id": 386940,
+                    "name": "Ultimate Chicken Horse",
+                    "playtime": 714
+                },
+                {
+                    "app_id": 393380,
+                    "name": "Squad",
+                    "playtime": 2627
+                },
+                {
+                    "app_id": 394360,
+                    "name": "Hearts of Iron IV",
+                    "playtime": 22965
+                },
+                {
+                    "app_id": 409710,
+                    "name": "BioShock Remastered",
+                    "playtime": 99
+                },
+                {
+                    "app_id": 431960,
+                    "name": "Wallpaper Engine",
+                    "playtime": 2516
+                },
+                {
+                    "app_id": 477160,
+                    "name": "Human Fall Flat",
+                    "playtime": 190
+                },
+                {
+                    "app_id": 493490,
+                    "name": "City Car Driving",
+                    "playtime": 779
+                },
+                {
+                    "app_id": 504230,
+                    "name": "Celeste",
+                    "playtime": 116
+                },
+                {
+                    "app_id": 509980,
+                    "name": "BIGFOOT",
+                    "playtime": 808
+                },
+                {
+                    "app_id": 518150,
+                    "name": "Intruder",
+                    "playtime": 318
+                },
+                {
+                    "app_id": 527450,
+                    "name": "Cockroach Simulator",
+                    "playtime": 90
+                },
+                {
+                    "app_id": 552520,
+                    "name": "Far Cry 5",
+                    "playtime": 557
+                },
+                {
+                    "app_id": 578080,
+                    "name": "PUBG: BATTLEGROUNDS",
+                    "playtime": 3206
+                },
+                {
+                    "app_id": 582160,
+                    "name": "Assassin's Creed Origins",
+                    "playtime": 73
+                },
+                {
+                    "app_id": 594650,
+                    "name": "Hunt: Showdown 1896",
+                    "playtime": 223
+                },
+                {
+                    "app_id": 602960,
+                    "name": "Barotrauma",
+                    "playtime": 564
+                },
+                {
+                    "app_id": 617670,
+                    "name": "Zup! S",
+                    "playtime": 72
+                },
+                {
+                    "app_id": 617830,
+                    "name": "SUPERHOT VR",
+                    "playtime": 360
+                },
+                {
+                    "app_id": 636480,
+                    "name": "Ravenfield",
+                    "playtime": 1380
+                },
+                {
+                    "app_id": 648800,
+                    "name": "Raft",
+                    "playtime": 101
+                },
+                {
+                    "app_id": 657200,
+                    "name": "Hand Simulator",
+                    "playtime": 12
+                },
+                {
+                    "app_id": 674940,
+                    "name": "Stick Fight: The Game",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 739630,
+                    "name": "Phasmophobia",
+                    "playtime": 13423
+                },
+                {
+                    "app_id": 756880,
+                    "name": "NVL",
+                    "playtime": 2
+                },
+                {
+                    "app_id": 774791,
+                    "name": "Surgeon Simulator 2",
+                    "playtime": 804
+                },
+                {
+                    "app_id": 812140,
+                    "name": "Assassin's Creed Odyssey",
+                    "playtime": 5725
+                },
+                {
+                    "app_id": 874390,
+                    "name": "The Battle of Polytopia",
+                    "playtime": 123
+                },
+                {
+                    "app_id": 911400,
+                    "name": "Assassin's Creed III Remastered",
+                    "playtime": 3023
+                },
+                {
+                    "app_id": 916440,
+                    "name": "Anno 1800",
+                    "playtime": 752
+                },
+                {
+                    "app_id": 924970,
+                    "name": "Back 4 Blood",
+                    "playtime": 40
+                },
+                {
+                    "app_id": 945360,
+                    "name": "Among Us",
+                    "playtime": 1955
+                },
+                {
+                    "app_id": 976310,
+                    "name": "Mortal Kombat 11",
+                    "playtime": 74
+                },
+                {
+                    "app_id": 990080,
+                    "name": "Hogwarts Legacy",
+                    "playtime": 4341
+                },
+                {
+                    "app_id": 999730,
+                    "name": "Secret Neighbor Beta",
+                    "playtime": 315
+                },
+                {
+                    "app_id": 1009850,
+                    "name": "OVR Advanced Settings",
+                    "playtime": 1451
+                },
+                {
+                    "app_id": 1046030,
+                    "name": "ISLANDERS",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 1097150,
+                    "name": "Fall Guys",
+                    "playtime": 764
+                },
+                {
+                    "app_id": 1144200,
+                    "name": "Ready or Not",
+                    "playtime": 326
+                },
+                {
+                    "app_id": 1151340,
+                    "name": "Fallout 76",
+                    "playtime": 1276
+                },
+                {
+                    "app_id": 1172620,
+                    "name": "Sea of Thieves",
+                    "playtime": 1420
+                },
+                {
+                    "app_id": 1174180,
+                    "name": "Red Dead Redemption 2",
+                    "playtime": 1286
+                },
+                {
+                    "app_id": 1237950,
+                    "name": "STAR WARS\u2122 Battlefront\u2122 II",
+                    "playtime": 377
+                },
+                {
+                    "app_id": 1238810,
+                    "name": "Battlefield\u2122 V",
+                    "playtime": 659
+                },
+                {
+                    "app_id": 1238840,
+                    "name": "Battlefield\u2122 1",
+                    "playtime": 1588
+                },
+                {
+                    "app_id": 1274570,
+                    "name": "DEVOUR",
+                    "playtime": 175
+                },
+                {
+                    "app_id": 1281630,
+                    "name": "Anno 1404 - History Edition",
+                    "playtime": 158
+                },
+                {
+                    "app_id": 1304930,
+                    "name": "The Outlast Trials",
+                    "playtime": 270
+                },
+                {
+                    "app_id": 1404210,
+                    "name": "Red Dead Online",
+                    "playtime": 153
+                },
+                {
+                    "app_id": 1422450,
+                    "name": "Deadlock",
+                    "playtime": 417
+                },
+                {
+                    "app_id": 1426210,
+                    "name": "It Takes Two",
+                    "playtime": 9
+                },
+                {
+                    "app_id": 1517290,
+                    "name": "Battlefield\u2122 2042",
+                    "playtime": 1410
+                },
+                {
+                    "app_id": 1549180,
+                    "name": "Propnight",
+                    "playtime": 373
+                },
+                {
+                    "app_id": 1604270,
+                    "name": "Broken Arrow",
+                    "playtime": 79
+                },
+                {
+                    "app_id": 1966720,
+                    "name": "Lethal Company",
+                    "playtime": 403
+                },
+                {
+                    "app_id": 2208920,
+                    "name": "Assassin's Creed Valhalla",
+                    "playtime": 7267
+                },
+                {
+                    "app_id": 2369390,
+                    "name": "Far Cry 6",
+                    "playtime": 23
+                },
+                {
+                    "app_id": 2527500,
+                    "name": "MiSide",
+                    "playtime": 263
+                },
+                {
+                    "app_id": 2707940,
+                    "name": "FPV Kamikaze Drone",
+                    "playtime": 288
+                },
+                {
+                    "app_id": 2842040,
+                    "name": "Star Wars Outlaws",
+                    "playtime": 3620
+                },
+                {
+                    "app_id": 2909110,
+                    "name": "Nuclear Nightmare",
+                    "playtime": 69
+                },
+                {
+                    "app_id": 3035570,
+                    "name": "Assassin's Creed Mirage",
+                    "playtime": 1973
+                },
+                {
+                    "app_id": 3159330,
+                    "name": "Assassin's Creed Shadows",
+                    "playtime": 5581
+                },
+                {
+                    "app_id": 3240220,
+                    "name": "Grand Theft Auto V Enhanced",
+                    "playtime": 56
+                },
+                {
+                    "app_id": 3241660,
+                    "name": "R.E.P.O.",
+                    "playtime": 195
+                },
+                {
+                    "app_id": 3932890,
+                    "name": "Escape from Tarkov",
+                    "playtime": 624
+                }
+            ]
+        },
+        {
+            "steam_id": "76561198096438421",
+            "total_valid_games": 12,
+            "library": [
+                {
+                    "app_id": 263280,
+                    "name": "Spintires\u00ae",
+                    "playtime": 12
+                },
+                {
+                    "app_id": 271590,
+                    "name": "Grand Theft Auto V Legacy",
+                    "playtime": 42330
+                },
+                {
+                    "app_id": 617670,
+                    "name": "Zup! S",
+                    "playtime": 27
+                },
+                {
+                    "app_id": 648800,
+                    "name": "Raft",
+                    "playtime": 582
+                },
+                {
+                    "app_id": 739630,
+                    "name": "Phasmophobia",
+                    "playtime": 1235
+                },
+                {
+                    "app_id": 787860,
+                    "name": "Farming Simulator 19",
+                    "playtime": 4352
+                },
+                {
+                    "app_id": 945360,
+                    "name": "Among Us",
+                    "playtime": 178
+                },
+                {
+                    "app_id": 1167630,
+                    "name": "Teardown",
+                    "playtime": 13817
+                },
+                {
+                    "app_id": 1222140,
+                    "name": "Detroit: Become Human",
+                    "playtime": 766
+                },
+                {
+                    "app_id": 1449690,
+                    "name": "The Walking Dead: The Telltale Definitive Series",
+                    "playtime": 1706
+                },
+                {
+                    "app_id": 1966720,
+                    "name": "Lethal Company",
+                    "playtime": 51
+                },
+                {
+                    "app_id": 3240220,
+                    "name": "Grand Theft Auto V Enhanced",
+                    "playtime": 11
+                }
+            ]
+        },
+        {
+            "steam_id": "76561198102656267",
+            "total_valid_games": 20,
+            "library": [
+                {
+                    "app_id": 220,
+                    "name": "Half-Life 2",
+                    "playtime": 529
+                },
+                {
+                    "app_id": 440,
+                    "name": "Team Fortress 2",
+                    "playtime": 8994
+                },
+                {
+                    "app_id": 4000,
+                    "name": "Garry's Mod",
+                    "playtime": 17445
+                },
+                {
+                    "app_id": 17410,
+                    "name": "Mirror's Edge",
+                    "playtime": 629
+                },
+                {
+                    "app_id": 25000,
+                    "name": "Overgrowth",
+                    "playtime": 927
+                },
+                {
+                    "app_id": 105600,
+                    "name": "Terraria",
+                    "playtime": 1323
+                },
+                {
+                    "app_id": 206420,
+                    "name": "Saints Row IV",
+                    "playtime": 711
+                },
+                {
+                    "app_id": 211820,
+                    "name": "Starbound",
+                    "playtime": 9968
+                },
+                {
+                    "app_id": 219740,
+                    "name": "Don't Starve",
+                    "playtime": 124
+                },
+                {
+                    "app_id": 222880,
+                    "name": "Insurgency",
+                    "playtime": 217
+                },
+                {
+                    "app_id": 234190,
+                    "name": "Receiver",
+                    "playtime": 16
+                },
+                {
+                    "app_id": 247730,
+                    "name": "Nether",
+                    "playtime": 2080
+                },
+                {
+                    "app_id": 252150,
+                    "name": "Grimm",
+                    "playtime": 101
+                },
+                {
+                    "app_id": 304050,
+                    "name": "Trove",
+                    "playtime": 16
+                },
+                {
+                    "app_id": 304930,
+                    "name": "Unturned",
+                    "playtime": 1636
+                },
+                {
+                    "app_id": 322330,
+                    "name": "Don't Starve Together",
+                    "playtime": 309
+                },
+                {
+                    "app_id": 351940,
+                    "name": "The Descendant",
+                    "playtime": 97
+                },
+                {
+                    "app_id": 367540,
+                    "name": "Starbound - Unstable",
+                    "playtime": 32
+                },
+                {
+                    "app_id": 391540,
+                    "name": "Undertale",
+                    "playtime": 1320
+                },
+                {
+                    "app_id": 999730,
+                    "name": "Secret Neighbor Beta",
+                    "playtime": 8
+                }
+            ]
+        },
+        {
+            "steam_id": "76561198129123397",
+            "total_valid_games": 185,
+            "library": [
+                {
+                    "app_id": 10,
+                    "name": "Counter-Strike",
+                    "playtime": 2659
+                },
+                {
+                    "app_id": 70,
+                    "name": "Half-Life",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 80,
+                    "name": "Counter-Strike: Condition Zero",
+                    "playtime": 2075
+                },
+                {
+                    "app_id": 130,
+                    "name": "Half-Life: Blue Shift",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 220,
+                    "name": "Half-Life 2",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 240,
+                    "name": "Counter-Strike: Source",
+                    "playtime": 494
+                },
+                {
+                    "app_id": 550,
+                    "name": "Left 4 Dead 2",
+                    "playtime": 353
+                },
+                {
+                    "app_id": 620,
+                    "name": "Portal 2",
+                    "playtime": 198
+                },
+                {
+                    "app_id": 730,
+                    "name": "Counter-Strike 2",
+                    "playtime": 355187
+                },
+                {
+                    "app_id": 1250,
+                    "name": "Killing Floor",
+                    "playtime": 247
+                },
+                {
+                    "app_id": 2990,
+                    "name": "FlatOut 2",
+                    "playtime": 120
+                },
+                {
+                    "app_id": 4000,
+                    "name": "Garry's Mod",
+                    "playtime": 186
+                },
+                {
+                    "app_id": 6220,
+                    "name": "FlatOut",
+                    "playtime": 98
+                },
+                {
+                    "app_id": 12210,
+                    "name": "Grand Theft Auto IV: The Complete Edition",
+                    "playtime": 101
+                },
+                {
+                    "app_id": 16710,
+                    "name": "Insecticide Part 1",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 17450,
+                    "name": "Dragon Age: Origins",
+                    "playtime": 81
+                },
+                {
+                    "app_id": 22370,
+                    "name": "Fallout 3 - Game of the Year Edition",
+                    "playtime": 98
+                },
+                {
+                    "app_id": 35420,
+                    "name": "Killing Floor Mod: Defence Alliance 2",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 38700,
+                    "name": "Toki Tori",
+                    "playtime": 176
+                },
+                {
+                    "app_id": 38720,
+                    "name": "RUSH",
+                    "playtime": 12
+                },
+                {
+                    "app_id": 38740,
+                    "name": "EDGE",
+                    "playtime": 7
+                },
+                {
+                    "app_id": 41070,
+                    "name": "Serious Sam 3: BFE",
+                    "playtime": 193
+                },
+                {
+                    "app_id": 43160,
+                    "name": "Metro: Last Light Complete Edition",
+                    "playtime": 563
+                },
+                {
+                    "app_id": 49520,
+                    "name": "Borderlands 2",
+                    "playtime": 6
+                },
+                {
+                    "app_id": 104200,
+                    "name": "BEEP",
+                    "playtime": 155
+                },
+                {
+                    "app_id": 104900,
+                    "name": "ORION: Prelude",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 105600,
+                    "name": "Terraria",
+                    "playtime": 516
+                },
+                {
+                    "app_id": 201420,
+                    "name": "Toki Tori 2+",
+                    "playtime": 64
+                },
+                {
+                    "app_id": 214340,
+                    "name": "Deponia",
+                    "playtime": 34
+                },
+                {
+                    "app_id": 214490,
+                    "name": "Alien: Isolation",
+                    "playtime": 129
+                },
+                {
+                    "app_id": 216250,
+                    "name": "Dead Island Riptide",
+                    "playtime": 333
+                },
+                {
+                    "app_id": 217490,
+                    "name": "Borderlands 2 RU",
+                    "playtime": 459
+                },
+                {
+                    "app_id": 218620,
+                    "name": "PAYDAY 2",
+                    "playtime": 273
+                },
+                {
+                    "app_id": 219150,
+                    "name": "Hotline Miami",
+                    "playtime": 19
+                },
+                {
+                    "app_id": 219910,
+                    "name": "Edna & Harvey: Harvey's New Eyes",
+                    "playtime": 80
+                },
+                {
+                    "app_id": 221100,
+                    "name": "DayZ",
+                    "playtime": 235
+                },
+                {
+                    "app_id": 222880,
+                    "name": "Insurgency",
+                    "playtime": 36
+                },
+                {
+                    "app_id": 225540,
+                    "name": "Just Cause 3",
+                    "playtime": 204
+                },
+                {
+                    "app_id": 227300,
+                    "name": "Euro Truck Simulator 2",
+                    "playtime": 208
+                },
+                {
+                    "app_id": 230820,
+                    "name": "The Night of the Rabbit",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 235540,
+                    "name": "Warhammer: End Times - Vermintide",
+                    "playtime": 35
+                },
+                {
+                    "app_id": 238210,
+                    "name": "System Shock\u00ae 2 (1999)",
+                    "playtime": 46
+                },
+                {
+                    "app_id": 238320,
+                    "name": "Outlast",
+                    "playtime": 82
+                },
+                {
+                    "app_id": 238430,
+                    "name": "Contagion",
+                    "playtime": 19
+                },
+                {
+                    "app_id": 239140,
+                    "name": "Dying Light",
+                    "playtime": 964
+                },
+                {
+                    "app_id": 242760,
+                    "name": "The Forest",
+                    "playtime": 912
+                },
+                {
+                    "app_id": 243200,
+                    "name": "Memoria",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 248470,
+                    "name": "Doorways: Prelude",
+                    "playtime": 7
+                },
+                {
+                    "app_id": 251570,
+                    "name": "7 Days to Die",
+                    "playtime": 30
+                },
+                {
+                    "app_id": 261640,
+                    "name": "Borderlands: The Pre-Sequel",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 261920,
+                    "name": "Catzilla",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 268500,
+                    "name": "XCOM 2",
+                    "playtime": 66
+                },
+                {
+                    "app_id": 268540,
+                    "name": "The Whispered World Special Edition",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 270550,
+                    "name": "Yet Another Zombie Defense",
+                    "playtime": 45
+                },
+                {
+                    "app_id": 270880,
+                    "name": "American Truck Simulator",
+                    "playtime": 131
+                },
+                {
+                    "app_id": 282140,
+                    "name": "SOMA",
+                    "playtime": 879
+                },
+                {
+                    "app_id": 286690,
+                    "name": "Metro 2033 Redux",
+                    "playtime": 608
+                },
+                {
+                    "app_id": 287290,
+                    "name": "Resident Evil Revelations 2",
+                    "playtime": 76
+                },
+                {
+                    "app_id": 287700,
+                    "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+                    "playtime": 330
+                },
+                {
+                    "app_id": 291010,
+                    "name": "The Hat Man: Shadow Ward",
+                    "playtime": 20
+                },
+                {
+                    "app_id": 301860,
+                    "name": "Submerged",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 303610,
+                    "name": "Suicide Guy",
+                    "playtime": 269
+                },
+                {
+                    "app_id": 304050,
+                    "name": "Trove",
+                    "playtime": 66
+                },
+                {
+                    "app_id": 304390,
+                    "name": "FOR HONOR",
+                    "playtime": 2
+                },
+                {
+                    "app_id": 304930,
+                    "name": "Unturned",
+                    "playtime": 51
+                },
+                {
+                    "app_id": 319510,
+                    "name": "Five Nights at Freddy's",
+                    "playtime": 16
+                },
+                {
+                    "app_id": 322330,
+                    "name": "Don't Starve Together",
+                    "playtime": 148
+                },
+                {
+                    "app_id": 324800,
+                    "name": "Shadow Warrior 2",
+                    "playtime": 574
+                },
+                {
+                    "app_id": 346110,
+                    "name": "ARK: Survival Evolved",
+                    "playtime": 899
+                },
+                {
+                    "app_id": 351290,
+                    "name": "SURVIVAL: Postapocalypse Now",
+                    "playtime": 536
+                },
+                {
+                    "app_id": 359550,
+                    "name": "Tom Clancy's Rainbow Six Siege",
+                    "playtime": 436
+                },
+                {
+                    "app_id": 362890,
+                    "name": "Black Mesa",
+                    "playtime": 22
+                },
+                {
+                    "app_id": 377160,
+                    "name": "Fallout 4",
+                    "playtime": 2786
+                },
+                {
+                    "app_id": 381210,
+                    "name": "Dead by Daylight",
+                    "playtime": 62
+                },
+                {
+                    "app_id": 383870,
+                    "name": "Firewatch",
+                    "playtime": 168
+                },
+                {
+                    "app_id": 402020,
+                    "name": "The Park",
+                    "playtime": 12
+                },
+                {
+                    "app_id": 411080,
+                    "name": "SHOWTIME 2073",
+                    "playtime": 6
+                },
+                {
+                    "app_id": 412020,
+                    "name": "Metro Exodus",
+                    "playtime": 1315
+                },
+                {
+                    "app_id": 431960,
+                    "name": "Wallpaper Engine",
+                    "playtime": 21
+                },
+                {
+                    "app_id": 433850,
+                    "name": "Z1 Battle Royale",
+                    "playtime": 122
+                },
+                {
+                    "app_id": 434570,
+                    "name": "Blood and Bacon",
+                    "playtime": 18
+                },
+                {
+                    "app_id": 438740,
+                    "name": "Friday the 13th: The Game",
+                    "playtime": 24
+                },
+                {
+                    "app_id": 477160,
+                    "name": "Human Fall Flat",
+                    "playtime": 334
+                },
+                {
+                    "app_id": 489360,
+                    "name": "CASE: Animatronics",
+                    "playtime": 92
+                },
+                {
+                    "app_id": 509840,
+                    "name": "El Ninja (Beta)",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 534380,
+                    "name": "Dying Light 2: Reloaded Edition",
+                    "playtime": 1200
+                },
+                {
+                    "app_id": 552500,
+                    "name": "Warhammer: Vermintide 2",
+                    "playtime": 158
+                },
+                {
+                    "app_id": 564310,
+                    "name": "Serious Sam Fusion 2017 (beta)",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 578080,
+                    "name": "PUBG: BATTLEGROUNDS",
+                    "playtime": 1137
+                },
+                {
+                    "app_id": 581320,
+                    "name": "Insurgency: Sandstorm",
+                    "playtime": 59
+                },
+                {
+                    "app_id": 594650,
+                    "name": "Hunt: Showdown 1896",
+                    "playtime": 159
+                },
+                {
+                    "app_id": 613100,
+                    "name": "House Flipper",
+                    "playtime": 579
+                },
+                {
+                    "app_id": 617290,
+                    "name": "Remnant: From the Ashes",
+                    "playtime": 221
+                },
+                {
+                    "app_id": 619080,
+                    "name": "SOS",
+                    "playtime": 13
+                },
+                {
+                    "app_id": 633360,
+                    "name": "Remothered: Tormented Fathers",
+                    "playtime": 4
+                },
+                {
+                    "app_id": 646910,
+                    "name": "The Crew 2",
+                    "playtime": 171
+                },
+                {
+                    "app_id": 656210,
+                    "name": "ROMBY",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 673750,
+                    "name": "Super Bunny Man",
+                    "playtime": 131
+                },
+                {
+                    "app_id": 674140,
+                    "name": "Bugsnax",
+                    "playtime": 124
+                },
+                {
+                    "app_id": 702150,
+                    "name": "Project Mercury",
+                    "playtime": 2
+                },
+                {
+                    "app_id": 704270,
+                    "name": "Generation Zero\u00ae",
+                    "playtime": 105
+                },
+                {
+                    "app_id": 704850,
+                    "name": "Thief Simulator",
+                    "playtime": 210
+                },
+                {
+                    "app_id": 739630,
+                    "name": "Phasmophobia",
+                    "playtime": 378
+                },
+                {
+                    "app_id": 776960,
+                    "name": "Mouse (Sneaking)",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 835950,
+                    "name": "Transpose",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 873190,
+                    "name": "\u0415\u0421\u0422\u042c \u0414\u0412\u0410 \u0421\u0422\u0423\u041b\u0410",
+                    "playtime": 12
+                },
+                {
+                    "app_id": 915460,
+                    "name": "ULTIMATE HARDBASS DEFENCE",
+                    "playtime": 8
+                },
+                {
+                    "app_id": 924970,
+                    "name": "Back 4 Blood",
+                    "playtime": 600
+                },
+                {
+                    "app_id": 944770,
+                    "name": "sheepChat",
+                    "playtime": 26037
+                },
+                {
+                    "app_id": 960990,
+                    "name": "Beyond: Two Souls",
+                    "playtime": 687
+                },
+                {
+                    "app_id": 967250,
+                    "name": "DOKA 2 KISHKI EDITION",
+                    "playtime": 17
+                },
+                {
+                    "app_id": 969990,
+                    "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+                    "playtime": 280
+                },
+                {
+                    "app_id": 972170,
+                    "name": "Echo Of Soul",
+                    "playtime": 115
+                },
+                {
+                    "app_id": 1016800,
+                    "name": "Chernobylite Complete Edition",
+                    "playtime": 186
+                },
+                {
+                    "app_id": 1069740,
+                    "name": "Seen",
+                    "playtime": 155
+                },
+                {
+                    "app_id": 1070330,
+                    "name": "Russian Life Simulator",
+                    "playtime": 6
+                },
+                {
+                    "app_id": 1144200,
+                    "name": "Ready or Not",
+                    "playtime": 324
+                },
+                {
+                    "app_id": 1174180,
+                    "name": "Red Dead Redemption 2",
+                    "playtime": 281
+                },
+                {
+                    "app_id": 1184160,
+                    "name": "RUSSIAPHOBIA",
+                    "playtime": 44
+                },
+                {
+                    "app_id": 1202690,
+                    "name": "Sex with the Devil",
+                    "playtime": 83
+                },
+                {
+                    "app_id": 1222140,
+                    "name": "Detroit: Become Human",
+                    "playtime": 18
+                },
+                {
+                    "app_id": 1222670,
+                    "name": "The Sims\u2122 4",
+                    "playtime": 1082
+                },
+                {
+                    "app_id": 1237970,
+                    "name": "Titanfall\u00ae 2",
+                    "playtime": 376
+                },
+                {
+                    "app_id": 1245430,
+                    "name": "Golden Light",
+                    "playtime": 114
+                },
+                {
+                    "app_id": 1260320,
+                    "name": "Party Animals",
+                    "playtime": 261
+                },
+                {
+                    "app_id": 1261040,
+                    "name": "Streamer Life Simulator",
+                    "playtime": 158
+                },
+                {
+                    "app_id": 1266690,
+                    "name": "Dark Deception: Monsters & Mortals",
+                    "playtime": 19
+                },
+                {
+                    "app_id": 1302240,
+                    "name": "Labyrinthine",
+                    "playtime": 934
+                },
+                {
+                    "app_id": 1316680,
+                    "name": "VLADiK BRUTAL",
+                    "playtime": 154
+                },
+                {
+                    "app_id": 1326470,
+                    "name": "Sons Of The Forest",
+                    "playtime": 378
+                },
+                {
+                    "app_id": 1350650,
+                    "name": "FreshWomen - Season 1",
+                    "playtime": 378
+                },
+                {
+                    "app_id": 1421250,
+                    "name": "Tiny Bunny",
+                    "playtime": 328
+                },
+                {
+                    "app_id": 1422450,
+                    "name": "Deadlock",
+                    "playtime": 392
+                },
+                {
+                    "app_id": 1517290,
+                    "name": "Battlefield\u2122 2042",
+                    "playtime": 131
+                },
+                {
+                    "app_id": 1529710,
+                    "name": " \u0421\u0438\u043c\u0443\u043b\u044f\u0442\u043e\u0440 \u041f\u0440\u044b\u0433\u0430\u043d\u0438\u044f \u043f\u043e \u0413\u0430\u0440\u0430\u0436\u0430\u043c ",
+                    "playtime": 17
+                },
+                {
+                    "app_id": 1549180,
+                    "name": "Propnight",
+                    "playtime": 176
+                },
+                {
+                    "app_id": 1571440,
+                    "name": "Lunch Lady",
+                    "playtime": 64
+                },
+                {
+                    "app_id": 1573630,
+                    "name": "Choice of Life: Middle Ages 2",
+                    "playtime": 104
+                },
+                {
+                    "app_id": 1578220,
+                    "name": "Mister Furry: Hot Muscles",
+                    "playtime": 56
+                },
+                {
+                    "app_id": 1623730,
+                    "name": "Palworld",
+                    "playtime": 459
+                },
+                {
+                    "app_id": 1627850,
+                    "name": "Deadly Broadcast",
+                    "playtime": 110
+                },
+                {
+                    "app_id": 1695840,
+                    "name": "Fear Therapy",
+                    "playtime": 158
+                },
+                {
+                    "app_id": 1699230,
+                    "name": "Hail to the Rainbow",
+                    "playtime": 556
+                },
+                {
+                    "app_id": 1715130,
+                    "name": "Crysis Remastered",
+                    "playtime": 98
+                },
+                {
+                    "app_id": 1807080,
+                    "name": "Ghost Exile",
+                    "playtime": 14
+                },
+                {
+                    "app_id": 1850740,
+                    "name": "Ghost Watchers",
+                    "playtime": 24
+                },
+                {
+                    "app_id": 1898830,
+                    "name": "VBridger",
+                    "playtime": 52
+                },
+                {
+                    "app_id": 1929610,
+                    "name": "Demonologist",
+                    "playtime": 213
+                },
+                {
+                    "app_id": 1943950,
+                    "name": "Escape the Backrooms",
+                    "playtime": 305
+                },
+                {
+                    "app_id": 1962890,
+                    "name": "IN HEAT: Lustful Nights",
+                    "playtime": 43
+                },
+                {
+                    "app_id": 1966720,
+                    "name": "Lethal Company",
+                    "playtime": 1395
+                },
+                {
+                    "app_id": 1999360,
+                    "name": "Placid Plastic Duck Simulator",
+                    "playtime": 94
+                },
+                {
+                    "app_id": 2144590,
+                    "name": "Take Me, Vitaly",
+                    "playtime": 66
+                },
+                {
+                    "app_id": 2181930,
+                    "name": "DR LIVESEY ROM AND DEATH EDITION",
+                    "playtime": 10
+                },
+                {
+                    "app_id": 2242760,
+                    "name": "The Escape: Together",
+                    "playtime": 277
+                },
+                {
+                    "app_id": 2254890,
+                    "name": "The Killing Antidote",
+                    "playtime": 888
+                },
+                {
+                    "app_id": 2381590,
+                    "name": "Only Up!",
+                    "playtime": 244
+                },
+                {
+                    "app_id": 2406770,
+                    "name": "Bodycam",
+                    "playtime": 61
+                },
+                {
+                    "app_id": 2475460,
+                    "name": "SOS OPS!",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 2527500,
+                    "name": "MiSide",
+                    "playtime": 428
+                },
+                {
+                    "app_id": 2532550,
+                    "name": "LIZARDS MUST DIE",
+                    "playtime": 43
+                },
+                {
+                    "app_id": 2555320,
+                    "name": "Summon",
+                    "playtime": 74
+                },
+                {
+                    "app_id": 2567870,
+                    "name": "Chained Together",
+                    "playtime": 83
+                },
+                {
+                    "app_id": 2592160,
+                    "name": "Dispatch",
+                    "playtime": 264
+                },
+                {
+                    "app_id": 2629330,
+                    "name": "MEMOLOGY: GOYDA",
+                    "playtime": 29
+                },
+                {
+                    "app_id": 2635640,
+                    "name": "Infestation: Origins",
+                    "playtime": 55
+                },
+                {
+                    "app_id": 2695940,
+                    "name": "PANICORE",
+                    "playtime": 122
+                },
+                {
+                    "app_id": 2755330,
+                    "name": "Chushpan Simulator",
+                    "playtime": 69
+                },
+                {
+                    "app_id": 2796180,
+                    "name": "SILENT BREATH",
+                    "playtime": 87
+                },
+                {
+                    "app_id": 2827200,
+                    "name": "MIMESIS",
+                    "playtime": 204
+                },
+                {
+                    "app_id": 2835570,
+                    "name": "Buckshot Roulette",
+                    "playtime": 149
+                },
+                {
+                    "app_id": 2933080,
+                    "name": "Crime Boss: Rockay City",
+                    "playtime": 31
+                },
+                {
+                    "app_id": 3028500,
+                    "name": "Cakey's Twisted Bakery",
+                    "playtime": 94
+                },
+                {
+                    "app_id": 3059070,
+                    "name": "The Headliners",
+                    "playtime": 325
+                },
+                {
+                    "app_id": 3097560,
+                    "name": "Liar's Bar",
+                    "playtime": 80
+                },
+                {
+                    "app_id": 3121110,
+                    "name": "Zort",
+                    "playtime": 127
+                },
+                {
+                    "app_id": 3144640,
+                    "name": "Skoof Simulator",
+                    "playtime": 60
+                },
+                {
+                    "app_id": 3149840,
+                    "name": "\u0421\u043a\u0443\u0444 \u043d\u0430 \u0440\u044b\u0431\u0430\u043b\u043a\u0435",
+                    "playtime": 86
+                },
+                {
+                    "app_id": 3241660,
+                    "name": "R.E.P.O.",
+                    "playtime": 1467
+                },
+                {
+                    "app_id": 3268080,
+                    "name": "Quadrober Simulator",
+                    "playtime": 32
+                },
+                {
+                    "app_id": 3399950,
+                    "name": "Your Mother",
+                    "playtime": 19
+                },
+                {
+                    "app_id": 3471590,
+                    "name": "Coffee & Boobs",
+                    "playtime": 451
+                },
+                {
+                    "app_id": 3527290,
+                    "name": "PEAK",
+                    "playtime": 1239
+                },
+                {
+                    "app_id": 3949040,
+                    "name": "RV There Yet?",
+                    "playtime": 235
+                },
+                {
+                    "app_id": 4308110,
+                    "name": "Your Stepmom",
+                    "playtime": 8
+                }
+            ]
+        },
+        {
+            "steam_id": "76561198142724997",
+            "total_valid_games": 87,
+            "library": [
+                {
+                    "app_id": 10,
+                    "name": "Counter-Strike",
+                    "playtime": 354
+                },
+                {
+                    "app_id": 240,
+                    "name": "Counter-Strike: Source",
+                    "playtime": 12
+                },
+                {
+                    "app_id": 550,
+                    "name": "Left 4 Dead 2",
+                    "playtime": 305
+                },
+                {
+                    "app_id": 570,
+                    "name": "Dota 2",
+                    "playtime": 234419
+                },
+                {
+                    "app_id": 620,
+                    "name": "Portal 2",
+                    "playtime": 120
+                },
+                {
+                    "app_id": 730,
+                    "name": "Counter-Strike 2",
+                    "playtime": 67663
+                },
+                {
+                    "app_id": 4000,
+                    "name": "Garry's Mod",
+                    "playtime": 6280
+                },
+                {
+                    "app_id": 12210,
+                    "name": "Grand Theft Auto IV: The Complete Edition",
+                    "playtime": 28
+                },
+                {
+                    "app_id": 17390,
+                    "name": "Spore",
+                    "playtime": 1223
+                },
+                {
+                    "app_id": 17440,
+                    "name": "Spore: Creepy & Cute Parts Pack",
+                    "playtime": 25
+                },
+                {
+                    "app_id": 20510,
+                    "name": "S.T.A.L.K.E.R.: Clear Sky",
+                    "playtime": 314
+                },
+                {
+                    "app_id": 20920,
+                    "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+                    "playtime": 22
+                },
+                {
+                    "app_id": 24720,
+                    "name": "Spore: Galactic Adventures",
+                    "playtime": 111
+                },
+                {
+                    "app_id": 40800,
+                    "name": "Super Meat Boy",
+                    "playtime": 41
+                },
+                {
+                    "app_id": 41070,
+                    "name": "Serious Sam 3: BFE",
+                    "playtime": 126
+                },
+                {
+                    "app_id": 41700,
+                    "name": "S.T.A.L.K.E.R.: Call of Pripyat",
+                    "playtime": 29
+                },
+                {
+                    "app_id": 55230,
+                    "name": "Saints Row: The Third",
+                    "playtime": 752
+                },
+                {
+                    "app_id": 72850,
+                    "name": "The Elder Scrolls V: Skyrim",
+                    "playtime": 14489
+                },
+                {
+                    "app_id": 105600,
+                    "name": "Terraria",
+                    "playtime": 4525
+                },
+                {
+                    "app_id": 204360,
+                    "name": "Castle Crashers",
+                    "playtime": 108
+                },
+                {
+                    "app_id": 214510,
+                    "name": "LEGO\u00ae The Lord of the Rings\u2122",
+                    "playtime": 310
+                },
+                {
+                    "app_id": 218620,
+                    "name": "PAYDAY 2",
+                    "playtime": 2695
+                },
+                {
+                    "app_id": 219740,
+                    "name": "Don't Starve",
+                    "playtime": 196
+                },
+                {
+                    "app_id": 220260,
+                    "name": "Farming Simulator 2013",
+                    "playtime": 25
+                },
+                {
+                    "app_id": 221100,
+                    "name": "DayZ",
+                    "playtime": 840
+                },
+                {
+                    "app_id": 222880,
+                    "name": "Insurgency",
+                    "playtime": 14
+                },
+                {
+                    "app_id": 224440,
+                    "name": "Folk Tale",
+                    "playtime": 681
+                },
+                {
+                    "app_id": 227860,
+                    "name": "Castle Story",
+                    "playtime": 68
+                },
+                {
+                    "app_id": 239140,
+                    "name": "Dying Light",
+                    "playtime": 157
+                },
+                {
+                    "app_id": 242760,
+                    "name": "The Forest",
+                    "playtime": 279
+                },
+                {
+                    "app_id": 245620,
+                    "name": "Tropico 5",
+                    "playtime": 275
+                },
+                {
+                    "app_id": 246620,
+                    "name": "Plague Inc: Evolved",
+                    "playtime": 18
+                },
+                {
+                    "app_id": 248390,
+                    "name": "Craft The World",
+                    "playtime": 977
+                },
+                {
+                    "app_id": 251570,
+                    "name": "7 Days to Die",
+                    "playtime": 3048
+                },
+                {
+                    "app_id": 252490,
+                    "name": "Rust",
+                    "playtime": 1472
+                },
+                {
+                    "app_id": 253250,
+                    "name": "Stonehearth",
+                    "playtime": 8487
+                },
+                {
+                    "app_id": 255710,
+                    "name": "Cities: Skylines",
+                    "playtime": 57
+                },
+                {
+                    "app_id": 264710,
+                    "name": "Subnautica",
+                    "playtime": 60
+                },
+                {
+                    "app_id": 282070,
+                    "name": "This War of Mine",
+                    "playtime": 385
+                },
+                {
+                    "app_id": 285160,
+                    "name": "LEGO\u00ae The Hobbit\u2122",
+                    "playtime": 73
+                },
+                {
+                    "app_id": 292030,
+                    "name": "The Witcher 3: Wild Hunt",
+                    "playtime": 4528
+                },
+                {
+                    "app_id": 304050,
+                    "name": "Trove",
+                    "playtime": 3148
+                },
+                {
+                    "app_id": 304930,
+                    "name": "Unturned",
+                    "playtime": 43310
+                },
+                {
+                    "app_id": 305620,
+                    "name": "The Long Dark",
+                    "playtime": 26
+                },
+                {
+                    "app_id": 322330,
+                    "name": "Don't Starve Together",
+                    "playtime": 5714
+                },
+                {
+                    "app_id": 327890,
+                    "name": "I Am Bread",
+                    "playtime": 3
+                },
+                {
+                    "app_id": 332310,
+                    "name": "LEGO\u00ae Worlds",
+                    "playtime": 190
+                },
+                {
+                    "app_id": 346010,
+                    "name": "Besiege",
+                    "playtime": 10
+                },
+                {
+                    "app_id": 346110,
+                    "name": "ARK: Survival Evolved",
+                    "playtime": 4795
+                },
+                {
+                    "app_id": 351910,
+                    "name": "Valhalla Hills",
+                    "playtime": 107
+                },
+                {
+                    "app_id": 356190,
+                    "name": "Middle-earth\u2122: Shadow of War\u2122",
+                    "playtime": 542
+                },
+                {
+                    "app_id": 374040,
+                    "name": "Portal Knights",
+                    "playtime": 1620
+                },
+                {
+                    "app_id": 381210,
+                    "name": "Dead by Daylight",
+                    "playtime": 1649
+                },
+                {
+                    "app_id": 393420,
+                    "name": "Hurtworld",
+                    "playtime": 15
+                },
+                {
+                    "app_id": 394360,
+                    "name": "Hearts of Iron IV",
+                    "playtime": 420
+                },
+                {
+                    "app_id": 428690,
+                    "name": "Youtubers Life",
+                    "playtime": 195
+                },
+                {
+                    "app_id": 431960,
+                    "name": "Wallpaper Engine",
+                    "playtime": 1065
+                },
+                {
+                    "app_id": 440900,
+                    "name": "Conan Exiles Enhanced",
+                    "playtime": 25936
+                },
+                {
+                    "app_id": 457140,
+                    "name": "Oxygen Not Included",
+                    "playtime": 8
+                },
+                {
+                    "app_id": 466560,
+                    "name": "Northgard: Definitive Edition",
+                    "playtime": 394
+                },
+                {
+                    "app_id": 469600,
+                    "name": "Legion TD 2",
+                    "playtime": 11082
+                },
+                {
+                    "app_id": 488280,
+                    "name": "Gun Done",
+                    "playtime": 2
+                },
+                {
+                    "app_id": 489830,
+                    "name": "The Elder Scrolls V: Skyrim Special Edition",
+                    "playtime": 4128
+                },
+                {
+                    "app_id": 508440,
+                    "name": "Totally Accurate Battle Simulator",
+                    "playtime": 105
+                },
+                {
+                    "app_id": 582660,
+                    "name": "Black Desert",
+                    "playtime": 138
+                },
+                {
+                    "app_id": 593600,
+                    "name": "PixARK",
+                    "playtime": 2086
+                },
+                {
+                    "app_id": 632360,
+                    "name": "Risk of Rain 2",
+                    "playtime": 2548
+                },
+                {
+                    "app_id": 858820,
+                    "name": "Tribes of Midgard",
+                    "playtime": 188
+                },
+                {
+                    "app_id": 892970,
+                    "name": "Valheim",
+                    "playtime": 3098
+                },
+                {
+                    "app_id": 976310,
+                    "name": "Mortal Kombat 11",
+                    "playtime": 423
+                },
+                {
+                    "app_id": 1029780,
+                    "name": "Going Medieval",
+                    "playtime": 2335
+                },
+                {
+                    "app_id": 1086940,
+                    "name": "Baldur's Gate 3",
+                    "playtime": 1402
+                },
+                {
+                    "app_id": 1171690,
+                    "name": "Wayfinder",
+                    "playtime": 571
+                },
+                {
+                    "app_id": 1272320,
+                    "name": "Diplomacy is Not an Option",
+                    "playtime": 356
+                },
+                {
+                    "app_id": 1422450,
+                    "name": "Deadlock",
+                    "playtime": 2610
+                },
+                {
+                    "app_id": 1456200,
+                    "name": "Initial Drift Online",
+                    "playtime": 97
+                },
+                {
+                    "app_id": 1466060,
+                    "name": "Tainted Grail: The Fall of Avalon",
+                    "playtime": 126
+                },
+                {
+                    "app_id": 1604030,
+                    "name": "V Rising",
+                    "playtime": 789
+                },
+                {
+                    "app_id": 1623730,
+                    "name": "Palworld",
+                    "playtime": 2004
+                },
+                {
+                    "app_id": 1966720,
+                    "name": "Lethal Company",
+                    "playtime": 1727
+                },
+                {
+                    "app_id": 2532550,
+                    "name": "LIZARDS MUST DIE",
+                    "playtime": 4
+                },
+                {
+                    "app_id": 2622380,
+                    "name": "ELDEN RING NIGHTREIGN",
+                    "playtime": 239
+                },
+                {
+                    "app_id": 2694490,
+                    "name": "Path of Exile 2",
+                    "playtime": 21762
+                },
+                {
+                    "app_id": 3092450,
+                    "name": "inZOI: Creative Studio",
+                    "playtime": 19
+                },
+                {
+                    "app_id": 3241660,
+                    "name": "R.E.P.O.",
+                    "playtime": 241
+                },
+                {
+                    "app_id": 3405340,
+                    "name": "Megabonk",
+                    "playtime": 3688
+                },
+                {
+                    "app_id": 3643170,
+                    "name": "Roadside Research",
+                    "playtime": 120
+                }
+            ]
+        },
+        {
+            "steam_id": "76561198156011854",
+            "total_valid_games": 22,
+            "library": [
+                {
+                    "app_id": 10,
+                    "name": "Counter-Strike",
+                    "playtime": 1339
+                },
+                {
+                    "app_id": 80,
+                    "name": "Counter-Strike: Condition Zero",
+                    "playtime": 91
+                },
+                {
+                    "app_id": 100,
+                    "name": "Counter-Strike: Condition Zero Deleted Scenes",
+                    "playtime": 78
+                },
+                {
+                    "app_id": 240,
+                    "name": "Counter-Strike: Source",
+                    "playtime": 2461
+                },
+                {
+                    "app_id": 400,
+                    "name": "Portal",
+                    "playtime": 571
+                },
+                {
+                    "app_id": 620,
+                    "name": "Portal 2",
+                    "playtime": 830
+                },
+                {
+                    "app_id": 730,
+                    "name": "Counter-Strike 2",
+                    "playtime": 57525
+                },
+                {
+                    "app_id": 3910,
+                    "name": "Sid Meier's Civilization III: Complete",
+                    "playtime": 3
+                },
+                {
+                    "app_id": 4000,
+                    "name": "Garry's Mod",
+                    "playtime": 115
+                },
+                {
+                    "app_id": 6100,
+                    "name": "Eets",
+                    "playtime": 12
+                },
+                {
+                    "app_id": 6800,
+                    "name": "Commandos: Behind Enemy Lines",
+                    "playtime": 2
+                },
+                {
+                    "app_id": 6840,
+                    "name": "Commandos 3: Destination Berlin",
+                    "playtime": 38
+                },
+                {
+                    "app_id": 8190,
+                    "name": "Just Cause 2",
+                    "playtime": 43
+                },
+                {
+                    "app_id": 105600,
+                    "name": "Terraria",
+                    "playtime": 50
+                },
+                {
+                    "app_id": 204340,
+                    "name": "Serious Sam 2",
+                    "playtime": 24
+                },
+                {
+                    "app_id": 204360,
+                    "name": "Castle Crashers",
+                    "playtime": 9
+                },
+                {
+                    "app_id": 246620,
+                    "name": "Plague Inc: Evolved",
+                    "playtime": 88
+                },
+                {
+                    "app_id": 250400,
+                    "name": "How to Survive",
+                    "playtime": 6
+                },
+                {
+                    "app_id": 259390,
+                    "name": "Ballpoint Universe: Infinite",
+                    "playtime": 30
+                },
+                {
+                    "app_id": 260730,
+                    "name": "Desperados - Wanted Dead or Alive",
+                    "playtime": 2024
+                },
+                {
+                    "app_id": 271900,
+                    "name": "Hexcells Plus",
+                    "playtime": 11
+                },
+                {
+                    "app_id": 278970,
+                    "name": "DiggerOnline",
+                    "playtime": 60
+                }
+            ]
+        },
+        {
+            "steam_id": "76561198232621864",
+            "total_valid_games": 32,
+            "library": [
+                {
+                    "app_id": 620,
+                    "name": "Portal 2",
+                    "playtime": 1531
+                },
+                {
+                    "app_id": 730,
+                    "name": "Counter-Strike 2",
+                    "playtime": 168254
+                },
+                {
+                    "app_id": 227300,
+                    "name": "Euro Truck Simulator 2",
+                    "playtime": 1659
+                },
+                {
+                    "app_id": 244210,
+                    "name": "Assetto Corsa",
+                    "playtime": 240
+                },
+                {
+                    "app_id": 246900,
+                    "name": "Viscera Cleanup Detail",
+                    "playtime": 788
+                },
+                {
+                    "app_id": 252490,
+                    "name": "Rust",
+                    "playtime": 14023
+                },
+                {
+                    "app_id": 252950,
+                    "name": "Rocket League",
+                    "playtime": 29568
+                },
+                {
+                    "app_id": 271590,
+                    "name": "Grand Theft Auto V Legacy",
+                    "playtime": 35708
+                },
+                {
+                    "app_id": 307780,
+                    "name": "Mortal Kombat X",
+                    "playtime": 1816
+                },
+                {
+                    "app_id": 322330,
+                    "name": "Don't Starve Together",
+                    "playtime": 196
+                },
+                {
+                    "app_id": 341800,
+                    "name": "Keep Talking and Nobody Explodes",
+                    "playtime": 367
+                },
+                {
+                    "app_id": 349040,
+                    "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+                    "playtime": 1083
+                },
+                {
+                    "app_id": 359550,
+                    "name": "Tom Clancy's Rainbow Six Siege",
+                    "playtime": 30434
+                },
+                {
+                    "app_id": 361420,
+                    "name": "ASTRONEER",
+                    "playtime": 434
+                },
+                {
+                    "app_id": 381210,
+                    "name": "Dead by Daylight",
+                    "playtime": 4513
+                },
+                {
+                    "app_id": 394360,
+                    "name": "Hearts of Iron IV",
+                    "playtime": 4592
+                },
+                {
+                    "app_id": 413150,
+                    "name": "Stardew Valley",
+                    "playtime": 1050
+                },
+                {
+                    "app_id": 431960,
+                    "name": "Wallpaper Engine",
+                    "playtime": 1147
+                },
+                {
+                    "app_id": 438740,
+                    "name": "Friday the 13th: The Game",
+                    "playtime": 511
+                },
+                {
+                    "app_id": 578080,
+                    "name": "PUBG: BATTLEGROUNDS",
+                    "playtime": 24768
+                },
+                {
+                    "app_id": 582660,
+                    "name": "Black Desert",
+                    "playtime": 385
+                },
+                {
+                    "app_id": 629520,
+                    "name": "Soundpad",
+                    "playtime": 15551
+                },
+                {
+                    "app_id": 841370,
+                    "name": "NBA 2K19",
+                    "playtime": 25984
+                },
+                {
+                    "app_id": 860510,
+                    "name": "Little Nightmares II",
+                    "playtime": 411
+                },
+                {
+                    "app_id": 893030,
+                    "name": "Music Racer",
+                    "playtime": 826
+                },
+                {
+                    "app_id": 945360,
+                    "name": "Among Us",
+                    "playtime": 1824
+                },
+                {
+                    "app_id": 1097150,
+                    "name": "Fall Guys",
+                    "playtime": 3204
+                },
+                {
+                    "app_id": 1392860,
+                    "name": "Little Nightmares III",
+                    "playtime": 298
+                },
+                {
+                    "app_id": 1422450,
+                    "name": "Deadlock",
+                    "playtime": 2930
+                },
+                {
+                    "app_id": 1966720,
+                    "name": "Lethal Company",
+                    "playtime": 627
+                },
+                {
+                    "app_id": 2694490,
+                    "name": "Path of Exile 2",
+                    "playtime": 8792
+                },
+                {
+                    "app_id": 3241660,
+                    "name": "R.E.P.O.",
+                    "playtime": 886
+                }
+            ]
+        },
+        {
+            "steam_id": "76561198257016333",
+            "total_valid_games": 64,
+            "library": [
+                {
+                    "app_id": 10,
+                    "name": "Counter-Strike",
+                    "playtime": 5769
+                },
+                {
+                    "app_id": 40,
+                    "name": "Deathmatch Classic",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 60,
+                    "name": "Ricochet",
+                    "playtime": 2
+                },
+                {
+                    "app_id": 70,
+                    "name": "Half-Life",
+                    "playtime": 1
+                },
+                {
+                    "app_id": 80,
+                    "name": "Counter-Strike: Condition Zero",
+                    "playtime": 390
+                },
+                {
+                    "app_id": 100,
+                    "name": "Counter-Strike: Condition Zero Deleted Scenes",
+                    "playtime": 43
+                },
+                {
+                    "app_id": 220,
+                    "name": "Half-Life 2",
+                    "playtime": 336
+                },
+                {
+                    "app_id": 240,
+                    "name": "Counter-Strike: Source",
+                    "playtime": 563
+                },
+                {
+                    "app_id": 300,
+                    "name": "Day of Defeat: Source",
+                    "playtime": 321
+                },
+                {
+                    "app_id": 400,
+                    "name": "Portal",
+                    "playtime": 169
+                },
+                {
+                    "app_id": 550,
+                    "name": "Left 4 Dead 2",
+                    "playtime": 286
+                },
+                {
+                    "app_id": 620,
+                    "name": "Portal 2",
+                    "playtime": 2133
+                },
+                {
+                    "app_id": 730,
+                    "name": "Counter-Strike 2",
+                    "playtime": 318215
+                },
+                {
+                    "app_id": 4000,
+                    "name": "Garry's Mod",
+                    "playtime": 616
+                },
+                {
+                    "app_id": 8980,
+                    "name": "Borderlands GOTY",
+                    "playtime": 128
+                },
+                {
+                    "app_id": 44350,
+                    "name": "GRID 2",
+                    "playtime": 135
+                },
+                {
+                    "app_id": 49520,
+                    "name": "Borderlands 2",
+                    "playtime": 353
+                },
+                {
+                    "app_id": 105600,
+                    "name": "Terraria",
+                    "playtime": 422
+                },
+                {
+                    "app_id": 203160,
+                    "name": "Tomb Raider",
+                    "playtime": 179
+                },
+                {
+                    "app_id": 204240,
+                    "name": "The Bridge",
+                    "playtime": 425
+                },
+                {
+                    "app_id": 204880,
+                    "name": "Sins of a Solar Empire: Rebellion",
+                    "playtime": 180
+                },
+                {
+                    "app_id": 208140,
+                    "name": "ENDLESS\u2122 Space - Definitive Edition",
+                    "playtime": 133
+                },
+                {
+                    "app_id": 214510,
+                    "name": "LEGO\u00ae The Lord of the Rings\u2122",
+                    "playtime": 29
+                },
+                {
+                    "app_id": 217490,
+                    "name": "Borderlands 2 RU",
+                    "playtime": 2833
+                },
+                {
+                    "app_id": 218620,
+                    "name": "PAYDAY 2",
+                    "playtime": 239
+                },
+                {
+                    "app_id": 219740,
+                    "name": "Don't Starve",
+                    "playtime": 761
+                },
+                {
+                    "app_id": 225540,
+                    "name": "Just Cause 3",
+                    "playtime": 125
+                },
+                {
+                    "app_id": 231430,
+                    "name": "Company of Heroes 2",
+                    "playtime": 269
+                },
+                {
+                    "app_id": 250900,
+                    "name": "The Binding of Isaac: Rebirth",
+                    "playtime": 22256
+                },
+                {
+                    "app_id": 252950,
+                    "name": "Rocket League",
+                    "playtime": 1422
+                },
+                {
+                    "app_id": 253900,
+                    "name": "Knights and Merchants",
+                    "playtime": 85
+                },
+                {
+                    "app_id": 261640,
+                    "name": "Borderlands: The Pre-Sequel",
+                    "playtime": 203
+                },
+                {
+                    "app_id": 268910,
+                    "name": "Cuphead",
+                    "playtime": 1302
+                },
+                {
+                    "app_id": 271590,
+                    "name": "Grand Theft Auto V Legacy",
+                    "playtime": 1783
+                },
+                {
+                    "app_id": 278360,
+                    "name": "A Story About My Uncle",
+                    "playtime": 153
+                },
+                {
+                    "app_id": 282140,
+                    "name": "SOMA",
+                    "playtime": 256
+                },
+                {
+                    "app_id": 292910,
+                    "name": "Deponia: The Complete Journey",
+                    "playtime": 97
+                },
+                {
+                    "app_id": 304390,
+                    "name": "FOR HONOR",
+                    "playtime": 434
+                },
+                {
+                    "app_id": 308600,
+                    "name": "Skillshot City",
+                    "playtime": 211
+                },
+                {
+                    "app_id": 322330,
+                    "name": "Don't Starve Together",
+                    "playtime": 7182
+                },
+                {
+                    "app_id": 360940,
+                    "name": "The Mean Greens - Plastic Warfare",
+                    "playtime": 242
+                },
+                {
+                    "app_id": 367520,
+                    "name": "Hollow Knight",
+                    "playtime": 5033
+                },
+                {
+                    "app_id": 368230,
+                    "name": "Kingdom: Classic",
+                    "playtime": 109
+                },
+                {
+                    "app_id": 370910,
+                    "name": "Kathy Rain",
+                    "playtime": 134
+                },
+                {
+                    "app_id": 381210,
+                    "name": "Dead by Daylight",
+                    "playtime": 2095
+                },
+                {
+                    "app_id": 395170,
+                    "name": "DISTRAINT: Deluxe Edition",
+                    "playtime": 224
+                },
+                {
+                    "app_id": 431960,
+                    "name": "Wallpaper Engine",
+                    "playtime": 19008
+                },
+                {
+                    "app_id": 474830,
+                    "name": "Time in Time",
+                    "playtime": 256
+                },
+                {
+                    "app_id": 491950,
+                    "name": "Orwell",
+                    "playtime": 84
+                },
+                {
+                    "app_id": 504230,
+                    "name": "Celeste",
+                    "playtime": 2902
+                },
+                {
+                    "app_id": 510840,
+                    "name": "Evolvation",
+                    "playtime": 130
+                },
+                {
+                    "app_id": 542400,
+                    "name": "Pixel Gladiator",
+                    "playtime": 589
+                },
+                {
+                    "app_id": 549100,
+                    "name": "GravNewton",
+                    "playtime": 241
+                },
+                {
+                    "app_id": 588650,
+                    "name": "Dead Cells",
+                    "playtime": 7420
+                },
+                {
+                    "app_id": 603130,
+                    "name": "Masked Shooters",
+                    "playtime": 232
+                },
+                {
+                    "app_id": 638070,
+                    "name": "Murderous Pursuits",
+                    "playtime": 111
+                },
+                {
+                    "app_id": 640590,
+                    "name": "The LEGO\u00ae NINJAGO\u00ae Movie Video Game",
+                    "playtime": 19
+                },
+                {
+                    "app_id": 689350,
+                    "name": "Ruin City Gasolina",
+                    "playtime": 7
+                },
+                {
+                    "app_id": 780800,
+                    "name": "Ball laB",
+                    "playtime": 21
+                },
+                {
+                    "app_id": 823130,
+                    "name": "Totally Accurate Battlegrounds",
+                    "playtime": 12
+                },
+                {
+                    "app_id": 945360,
+                    "name": "Among Us",
+                    "playtime": 1722
+                },
+                {
+                    "app_id": 1030300,
+                    "name": "Hollow Knight: Silksong",
+                    "playtime": 8210
+                },
+                {
+                    "app_id": 1097150,
+                    "name": "Fall Guys",
+                    "playtime": 1844
+                },
+                {
+                    "app_id": 1422450,
+                    "name": "Deadlock",
+                    "playtime": 42
+                }
+            ]
+        },
+        {
+            "steam_id": "76561198258668615",
+            "total_valid_games": 73,
+            "library": [
+                {
+                    "app_id": 10,
+                    "name": "Counter-Strike",
+                    "playtime": 638
+                },
+                {
+                    "app_id": 730,
+                    "name": "Counter-Strike 2",
+                    "playtime": 243550
+                },
+                {
+                    "app_id": 4000,
+                    "name": "Garry's Mod",
+                    "playtime": 92
+                },
+                {
+                    "app_id": 20900,
+                    "name": "The Witcher: Enhanced Edition",
+                    "playtime": 3074
+                },
+                {
+                    "app_id": 20920,
+                    "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+                    "playtime": 2536
+                },
+                {
+                    "app_id": 39500,
+                    "name": "Gothic 3",
+                    "playtime": 398
+                },
+                {
+                    "app_id": 39510,
+                    "name": "Gothic II: Gold Classic",
+                    "playtime": 1598
+                },
+                {
+                    "app_id": 40300,
+                    "name": "Risen",
+                    "playtime": 1748
+                },
+                {
+                    "app_id": 47400,
+                    "name": "Stronghold 3",
+                    "playtime": 263
+                },
+                {
+                    "app_id": 47810,
+                    "name": "Dragon Age: Origins - Ultimate Edition",
+                    "playtime": 81
+                },
+                {
+                    "app_id": 220240,
+                    "name": "Far Cry\u00ae 3",
+                    "playtime": 1038
+                },
+                {
+                    "app_id": 221100,
+                    "name": "DayZ",
+                    "playtime": 330
+                },
+                {
+                    "app_id": 252490,
+                    "name": "Rust",
+                    "playtime": 1794
+                },
+                {
+                    "app_id": 271590,
+                    "name": "Grand Theft Auto V Legacy",
+                    "playtime": 7749
+                },
+                {
+                    "app_id": 286690,
+                    "name": "Metro 2033 Redux",
+                    "playtime": 54
+                },
+                {
+                    "app_id": 288470,
+                    "name": "Fable Anniversary",
+                    "playtime": 465
+                },
+                {
+                    "app_id": 289650,
+                    "name": "Assassin's Creed Unity",
+                    "playtime": 2557
+                },
+                {
+                    "app_id": 292030,
+                    "name": "The Witcher 3: Wild Hunt",
+                    "playtime": 27212
+                },
+                {
+                    "app_id": 304390,
+                    "name": "FOR HONOR",
+                    "playtime": 20
+                },
+                {
+                    "app_id": 306130,
+                    "name": "The Elder Scrolls Online",
+                    "playtime": 413
+                },
+                {
+                    "app_id": 307690,
+                    "name": "Sleeping Dogs: Definitive Edition",
+                    "playtime": 2669
+                },
+                {
+                    "app_id": 335300,
+                    "name": "DARK SOULS\u2122 II: Scholar of the First Sin",
+                    "playtime": 1520
+                },
+                {
+                    "app_id": 346110,
+                    "name": "ARK: Survival Evolved",
+                    "playtime": 28856
+                },
+                {
+                    "app_id": 349040,
+                    "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+                    "playtime": 2896
+                },
+                {
+                    "app_id": 359550,
+                    "name": "Tom Clancy's Rainbow Six Siege",
+                    "playtime": 475
+                },
+                {
+                    "app_id": 365590,
+                    "name": "Tom Clancy's The Division",
+                    "playtime": 512
+                },
+                {
+                    "app_id": 374320,
+                    "name": "DARK SOULS\u2122 III",
+                    "playtime": 5959
+                },
+                {
+                    "app_id": 379430,
+                    "name": "Kingdom Come: Deliverance",
+                    "playtime": 981
+                },
+                {
+                    "app_id": 381210,
+                    "name": "Dead by Daylight",
+                    "playtime": 3017
+                },
+                {
+                    "app_id": 393380,
+                    "name": "Squad",
+                    "playtime": 320
+                },
+                {
+                    "app_id": 418370,
+                    "name": "Resident Evil 7 Biohazard",
+                    "playtime": 1096
+                },
+                {
+                    "app_id": 433850,
+                    "name": "Z1 Battle Royale",
+                    "playtime": 411
+                },
+                {
+                    "app_id": 489830,
+                    "name": "The Elder Scrolls V: Skyrim Special Edition",
+                    "playtime": 1107
+                },
+                {
+                    "app_id": 570940,
+                    "name": "DARK SOULS\u2122: REMASTERED",
+                    "playtime": 1669
+                },
+                {
+                    "app_id": 578080,
+                    "name": "PUBG: BATTLEGROUNDS",
+                    "playtime": 25409
+                },
+                {
+                    "app_id": 582160,
+                    "name": "Assassin's Creed Origins",
+                    "playtime": 4607
+                },
+                {
+                    "app_id": 629520,
+                    "name": "Soundpad",
+                    "playtime": 190
+                },
+                {
+                    "app_id": 648800,
+                    "name": "Raft",
+                    "playtime": 438
+                },
+                {
+                    "app_id": 739630,
+                    "name": "Phasmophobia",
+                    "playtime": 2196
+                },
+                {
+                    "app_id": 814380,
+                    "name": "Sekiro\u2122: Shadows Die Twice",
+                    "playtime": 2703
+                },
+                {
+                    "app_id": 873190,
+                    "name": "\u0415\u0421\u0422\u042c \u0414\u0412\u0410 \u0421\u0422\u0423\u041b\u0410",
+                    "playtime": 6
+                },
+                {
+                    "app_id": 883710,
+                    "name": "Resident Evil 2",
+                    "playtime": 978
+                },
+                {
+                    "app_id": 1086940,
+                    "name": "Baldur's Gate 3",
+                    "playtime": 9311
+                },
+                {
+                    "app_id": 1091500,
+                    "name": "Cyberpunk 2077",
+                    "playtime": 6198
+                },
+                {
+                    "app_id": 1151640,
+                    "name": "Horizon Zero Dawn\u2122 Complete Edition",
+                    "playtime": 1121
+                },
+                {
+                    "app_id": 1158310,
+                    "name": "Crusader Kings III",
+                    "playtime": 5346
+                },
+                {
+                    "app_id": 1196590,
+                    "name": "Resident Evil Village",
+                    "playtime": 902
+                },
+                {
+                    "app_id": 1222670,
+                    "name": "The Sims\u2122 4",
+                    "playtime": 87
+                },
+                {
+                    "app_id": 1244460,
+                    "name": "Jurassic World Evolution 2",
+                    "playtime": 2800
+                },
+                {
+                    "app_id": 1245620,
+                    "name": "ELDEN RING",
+                    "playtime": 2734
+                },
+                {
+                    "app_id": 1295660,
+                    "name": "Sid Meier's Civilization VII",
+                    "playtime": 2606
+                },
+                {
+                    "app_id": 1304930,
+                    "name": "The Outlast Trials",
+                    "playtime": 241
+                },
+                {
+                    "app_id": 1422450,
+                    "name": "Deadlock",
+                    "playtime": 776
+                },
+                {
+                    "app_id": 1449560,
+                    "name": "Metro Exodus Enhanced Edition",
+                    "playtime": 357
+                },
+                {
+                    "app_id": 1693980,
+                    "name": "Dead Space",
+                    "playtime": 468
+                },
+                {
+                    "app_id": 1702010,
+                    "name": "Sengoku Dynasty",
+                    "playtime": 801
+                },
+                {
+                    "app_id": 1771300,
+                    "name": "Kingdom Come: Deliverance II",
+                    "playtime": 6970
+                },
+                {
+                    "app_id": 1807080,
+                    "name": "Ghost Exile",
+                    "playtime": 289
+                },
+                {
+                    "app_id": 1812620,
+                    "name": "DSX",
+                    "playtime": 2
+                },
+                {
+                    "app_id": 1850740,
+                    "name": "Ghost Watchers",
+                    "playtime": 391
+                },
+                {
+                    "app_id": 1943950,
+                    "name": "Escape the Backrooms",
+                    "playtime": 949
+                },
+                {
+                    "app_id": 2050650,
+                    "name": "Resident Evil 4",
+                    "playtime": 1933
+                },
+                {
+                    "app_id": 2124490,
+                    "name": "SILENT HILL 2",
+                    "playtime": 358
+                },
+                {
+                    "app_id": 2277560,
+                    "name": "WUCHANG: Fallen Feathers",
+                    "playtime": 648
+                },
+                {
+                    "app_id": 2344520,
+                    "name": "Diablo\u00ae IV",
+                    "playtime": 3488
+                },
+                {
+                    "app_id": 2358720,
+                    "name": "Black Myth: Wukong",
+                    "playtime": 3537
+                },
+                {
+                    "app_id": 2532550,
+                    "name": "LIZARDS MUST DIE",
+                    "playtime": 43
+                },
+                {
+                    "app_id": 2881650,
+                    "name": "Content Warning",
+                    "playtime": 59
+                },
+                {
+                    "app_id": 3097560,
+                    "name": "Liar's Bar",
+                    "playtime": 59
+                },
+                {
+                    "app_id": 3105440,
+                    "name": "Heroes of Might and Magic: Olden Era",
+                    "playtime": 2968
+                },
+                {
+                    "app_id": 3164500,
+                    "name": "Schedule I",
+                    "playtime": 2758
+                },
+                {
+                    "app_id": 3764200,
+                    "name": "Resident Evil Requiem",
+                    "playtime": 2262
+                },
+                {
+                    "app_id": 3949040,
+                    "name": "RV There Yet?",
+                    "playtime": 1
+                }
+            ]
+        },
+        {
+            "steam_id": "76561198271315040",
+            "total_valid_games": 22,
+            "library": [
+                {
+                    "app_id": 10,
+                    "name": "Counter-Strike",
+                    "playtime": 3435
+                },
+                {
+                    "app_id": 70,
+                    "name": "Half-Life",
+                    "playtime": 11
+                },
+                {
+                    "app_id": 80,
+                    "name": "Counter-Strike: Condition Zero",
+                    "playtime": 2
+                },
+                {
+                    "app_id": 220,
+                    "name": "Half-Life 2",
+                    "playtime": 79
+                },
+                {
+                    "app_id": 240,
+                    "name": "Counter-Strike: Source",
+                    "playtime": 8
+                },
+                {
+                    "app_id": 400,
+                    "name": "Portal",
+                    "playtime": 119
+                },
+                {
+                    "app_id": 440,
+                    "name": "Team Fortress 2",
+                    "playtime": 321
+                },
+                {
+                    "app_id": 620,
+                    "name": "Portal 2",
+                    "playtime": 189
+                },
+                {
+                    "app_id": 730,
+                    "name": "Counter-Strike 2",
+                    "playtime": 45169
+                },
+                {
+                    "app_id": 217200,
+                    "name": "Worms Armageddon",
+                    "playtime": 56
+                },
+                {
+                    "app_id": 218620,
+                    "name": "PAYDAY 2",
+                    "playtime": 75
+                },
+                {
+                    "app_id": 227300,
+                    "name": "Euro Truck Simulator 2",
+                    "playtime": 74
+                },
+                {
+                    "app_id": 252490,
+                    "name": "Rust",
+                    "playtime": 19118
+                },
+                {
+                    "app_id": 255710,
+                    "name": "Cities: Skylines",
+                    "playtime": 1282
+                },
+                {
+                    "app_id": 304930,
+                    "name": "Unturned",
+                    "playtime": 720
+                },
+                {
+                    "app_id": 341800,
+                    "name": "Keep Talking and Nobody Explodes",
+                    "playtime": 46
+                },
+                {
+                    "app_id": 346110,
+                    "name": "ARK: Survival Evolved",
+                    "playtime": 83
+                },
+                {
+                    "app_id": 413150,
+                    "name": "Stardew Valley",
+                    "playtime": 276
+                },
+                {
+                    "app_id": 505040,
+                    "name": "FORTIFY",
+                    "playtime": 1051
+                },
+                {
+                    "app_id": 644560,
+                    "name": "Mirror",
+                    "playtime": 125
+                },
+                {
+                    "app_id": 2532550,
+                    "name": "LIZARDS MUST DIE",
+                    "playtime": 11
+                },
+                {
+                    "app_id": 3097560,
+                    "name": "Liar's Bar",
+                    "playtime": 109
+                }
+            ]
+        }
+    ]
+}
