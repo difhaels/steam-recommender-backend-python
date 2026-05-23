@@ -10,7 +10,7 @@ import time
 # --- KONFIGURASI ---
 API_KEY = os.getenv("API_KEY")  # Ganti dengan Steam API Key kamu
 SEED_ID = '76561198418191535'   # ID awal untuk memulai snowball sampling
-TARGET_COUNT = 500               # Jumlah user valid yang ingin diambil
+TARGET_COUNT = 1               # Jumlah user valid yang ingin diambil
 
 def get_owned_games(steam_id):
     url = f"http://api.steampowered.com/IPlayerService/GetOwnedGames/v1/?key={API_KEY}&steamid={steam_id}&include_appinfo=1&format=json"
@@ -89,7 +89,7 @@ def run_scraper():
         "data": valid_users
     }
 
-    with open('dataset_from_500', 'w') as f:
+    with open('dataset_from_500.json', 'w') as f:
         json.dump(output, f, indent=4)
     
     print("\nFile 'dataset_from_500.json' telah berhasil dibuat!")
